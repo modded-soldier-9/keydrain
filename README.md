@@ -1,4 +1,4 @@
-# 🔐 Educational Malware Builder
+# 🔐 KeyDrain - Educational Malware Builder
 
 > **⚠️ DISCLAIMER: This tool is for EDUCATIONAL PURPOSES ONLY. Use only in isolated lab environments for learning about cybersecurity, penetration testing, and malware analysis.**
 
@@ -46,8 +46,8 @@ A comprehensive Python-based malware builder that creates advanced keyloggers wi
 ### Quick Setup (Windows)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/educational-malware-builder.git
-   cd educational-malware-builder
+   git clone https://github.com/modded-soldier-9/keydrain.git
+   cd keydrain
    ```
 
 2. Run the automated setup:
@@ -103,7 +103,7 @@ python main.py
 ## 📁 Project Structure
 
 ```
-educational-malware-builder/
+keydrain/
 ├── main.py                 # Main application entry point
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file

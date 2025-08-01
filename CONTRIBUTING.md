@@ -1,6 +1,6 @@
-# Contributing to Educational Malware Builder
+# Contributing to KeyDrain
 
-Thank you for your interest in contributing to this educational project! This document provides guidelines for contributing to the Educational Malware Builder.
+Thank you for your interest in contributing to this educational project! This document provides guidelines for contributing to KeyDrain.
 
 ## 🎯 Purpose
 
@@ -29,8 +29,8 @@ This project is designed for **educational purposes only**. All contributions mu
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/yourusername/educational-malware-builder.git
-   cd educational-malware-builder
+   git clone https://github.com/modded-soldier-9/keydrain.git
+   cd keydrain
    ```
 
 2. **Install dependencies**

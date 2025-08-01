@@ -176,7 +176,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Contributors
 
 ### Version 1.0.0
-- [Your Name] - Project lead and main developer
+- modded-soldier-9 - Project lead and main developer
 - [Contributor Name] - Feature contributions
 - [Contributor Name] - Documentation and testing
 

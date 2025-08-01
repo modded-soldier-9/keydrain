@@ -1,4 +1,4 @@
-# 🔐 Educational Malware Builder
+# 🔐 KeyDrain - Educational Malware Builder
 
 > **⚠️ DISCLAIMER: This tool is for EDUCATIONAL PURPOSES ONLY. Use only in isolated lab environments for learning about cybersecurity, penetration testing, and malware analysis.**
 
@@ -38,8 +38,8 @@ This project is designed for:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/educational-malware-builder.git
-cd educational-malware-builder
+git clone https://github.com/modded-soldier-9/keydrain.git
+cd keydrain
 
 # Install dependencies
 install_requirements.bat
@@ -67,11 +67,11 @@ start_builder.bat
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/educational-malware-builder?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/educational-malware-builder?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/educational-malware-builder)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/educational-malware-builder)
-![GitHub license](https://img.shields.io/github/license/yourusername/educational-malware-builder)
+![GitHub stars](https://img.shields.io/github/stars/modded-soldier-9/keydrain?style=social)
+![GitHub forks](https://img.shields.io/github/forks/modded-soldier-9/keydrain?style=social)
+![GitHub issues](https://img.shields.io/github/issues/modded-soldier-9/keydrain)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/modded-soldier-9/keydrain)
+![GitHub license](https://img.shields.io/github/license/modded-soldier-9/keydrain)
 
 ## 🛠️ Technology Stack
 
@@ -86,7 +86,7 @@ start_builder.bat
 ## 📁 Project Structure
 
 ```
-educational-malware-builder/
+keydrain/
 ├── main.py                 # Main application entry point
 ├── requirements.txt        # Python dependencies
 ├── README.md              # Comprehensive documentation
@@ -117,8 +117,8 @@ We welcome contributions that promote cybersecurity education! Please see our [C
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/educational-malware-builder/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/educational-malware-builder/discussions)
+- **Issues**: [GitHub Issues](https://github.com/modded-soldier-9/keydrain/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/modded-soldier-9/keydrain/discussions)
 - **Security**: [Security Policy](SECURITY.md)
 
 ## 📝 License
@@ -143,6 +143,6 @@ This software is provided for **EDUCATIONAL PURPOSES ONLY**. Users are responsib
 
 <div align="center">
 
-**🔐 Educational Malware Builder** | **🛡️ For Educational Use Only** | **📚 Cybersecurity Learning**
+**🔐 KeyDrain** | **🛡️ For Educational Use Only** | **📚 Cybersecurity Learning**
 
 </div> 
